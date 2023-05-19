@@ -1,0 +1,1 @@
+print("hi,\nthis is a python code to check the github actions")
